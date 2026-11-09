@@ -30,3 +30,5 @@ include/
 
 # Ignore VSCode settings (if applicable)
 .vscode/
+
+res/plan.md
